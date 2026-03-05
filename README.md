@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snow2white)
+
+<img align='center'src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs"/> 
 
 <!--
 **snow2white/snow2white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
