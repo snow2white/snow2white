@@ -2,4 +2,4 @@
 
 Welcome to my GitHub profile!
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snow2white&layout=compact&langs_count=6&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/snow2white?template=classic&languages=1&languages.limit=6)
