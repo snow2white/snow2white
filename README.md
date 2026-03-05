@@ -1,6 +1,6 @@
   # Hi there 👋, I'm snow2white
 
-Enjoy AI Coding 🚀
+Enjoy AI Coding 🚀🚀
 
 
   ## 📊 GitHub Stats & 💻 Most Used Languages
