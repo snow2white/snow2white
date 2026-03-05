@@ -2,4 +2,6 @@
 
 Welcome to my GitHub profile!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snow2white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats-wheat-five-9t88zlqfun.vercel.app/api/top-langs/?username=snow2white&layout=compact&langs_count=6&theme=tokyonight)
